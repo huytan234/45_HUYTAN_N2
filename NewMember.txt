@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 2dawdwfawd
+=======
+#include <iostream>
+using namespace std;
+int main(){
+	cout <<"New commit"<<endl;
+	return 0;
+}
+>>>>>>> 64f6938f2805dd74889f66d1742c578901debebb
