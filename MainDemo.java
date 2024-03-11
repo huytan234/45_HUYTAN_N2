@@ -30,6 +30,9 @@ public class MainDemo {
 System.out.println("1.Quan ly du an");
 System.out.println("1.Quan ly du an");
             System.out.println("2.Quan ly nhan vien");
+System.out.println("2.Quan ly nhan vien");
+System.out.println("2.Quan ly nhan vien");
+System.out.println("2.Quan ly nhan vien");
             System.out.println("3.THOAT!!!!!!");
             System.out.print("Moi ban dua ra su lua chon: ");
             Scanner sc = new Scanner(System.in);
